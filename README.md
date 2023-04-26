@@ -1,4 +1,4 @@
 # hest-design-patterns
-## cours design-patterns
-- pattern
-- design
+## Ceci est le dépôt pour le cours de design pattern
+- pattern builder
+- pattern singleton
